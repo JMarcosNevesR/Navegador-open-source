@@ -7,6 +7,8 @@ Um navegador básico feito em Python com PyQt5.
 - Navegação com botões de voltar, avançar e recarregar
 - Campo de URL para digitar e navegar
 - Interface simples
+- Linguagem de fácil entendimento
+- Foco em usuarios que farão seu primeiro acesso a internet
 
 ## Requisitos
 
